@@ -1,4 +1,4 @@
-![arduino2](https://github.com/felipeferrari22/reconhecimento-facial-arduino/assets/78982963/970d96da-1cb1-4298-a9fc-2cfb4cb7c07d)# Sistema de Segurança Agrícola baseado em Reconhecimento Facial
+# Sistema de Segurança Agrícola baseado em Reconhecimento Facial
 **Este Repositório é dedicado à parte prática do projeto, desenvolvido como Trabalho de Graduação da Fatec Pompéia.**
 
 ![fatec-pompeia](https://github.com/felipeferrari22/reconhecimento-facial-arduino/assets/78982963/06d287c0-9421-4a0f-a2a1-392c82fe98d8)

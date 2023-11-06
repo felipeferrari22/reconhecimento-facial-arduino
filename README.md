@@ -1,7 +1,8 @@
-# Sistema de Segurança Agrícola baseado em Reconhecimento Facial
+![arduino2](https://github.com/felipeferrari22/reconhecimento-facial-arduino/assets/78982963/970d96da-1cb1-4298-a9fc-2cfb4cb7c07d)# Sistema de Segurança Agrícola baseado em Reconhecimento Facial
 **Este Repositório é dedicado à parte prática do projeto, desenvolvido como Trabalho de Graduação da Fatec Pompéia.**
 
-![fatec-pompeia](https://github.com/felipeferrari22/reconhecimento-facial-arduino/assets/78982963/1fb63e74-6dab-411c-98c0-785c219468d0)
+![fatec-pompeia](https://github.com/felipeferrari22/reconhecimento-facial-arduino/assets/78982963/06d287c0-9421-4a0f-a2a1-392c82fe98d8)
+
 ## Desenvolvido utilizando
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35px">  •  **Python** &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35px">  •  **Flask** &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35px">  •  **HTML5** &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35px"> • **CSS3** &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35px"> • **Arduino** &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -10,7 +11,9 @@
 ## Inicializar o projeto
 O circuito do Arduino deve ser montado da seguinte forma: 
 
-![arduino](https://github.com/felipeferrari22/reconhecimento-facial-arduino/assets/78982963/46a2799f-668b-452a-9cda-9f0c178729a8)    ![arduino2](https://github.com/felipeferrari22/reconhecimento-facial-arduino/assets/78982963/7f73a047-eaa8-4821-9cc6-cc02a8a90bb0)
+![arduino](https://github.com/felipeferrari22/reconhecimento-facial-arduino/assets/78982963/54664eee-e106-4db1-a201-1e43afc2d7ef) ![arduino2](https://github.com/felipeferrari22/reconhecimento-facial-arduino/assets/78982963/b2c1b633-80ac-40ca-bfdb-14abdb77ed9f)
+
+
 
 O código no arquivo 'abrir_trava.ino' deve então ser carregado no Arduino por meio do cabo USB.
 

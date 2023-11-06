@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="refresh" content="5">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" type="image/x-icon" href={{ url_for("static", filename="favicon.ico") }}>
+    <link rel="stylesheet" href="{{ url_for('static', filename='index.css') }}">
+    <title>Sistema de Segurança</title>
+  </head>
+
+  <body>
+    <div class="container-titulo">
+        <h1>Sistema de Segurança</h1>
+      </div>
+      <div class="container">
+        <img src= "{{url_for('static', filename='/Images/Desconhecido.jpg')}}" style="width:1000px;height:600px;">
+      </div>
+      <div id="container-botoes">
+        <form action="/abrir/" method="get">
+          <button type="submit" formmethod="post" id="botao-abrir">Autorizar Entrada</button>
+        </form>
+        <form>
+          <button type="button" id="botao-fechar">Negar Entrada</button>
+        </form>
+    </div>
+  </body>
+</html>

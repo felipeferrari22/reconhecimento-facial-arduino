@@ -1,0 +1,100 @@
+body {
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    height: clac(100vh - 30px);
+    text-align: center;
+}
+.container-titulo h1 {
+    font-family: "Arial";
+    font-weight: 600;
+    font-size: 2.2em;
+    color: #474444;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.container img {
+  display: block;
+  margin: auto;
+  width: 100px;
+  height: 100px;
+  justify-content: flex-start;
+}
+
+#container-botoes {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 30px;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#botao-abrir {
+    background-color: #1abe1a;
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+  
+    font-family: "Barlow", sans-serif;
+    font-size: 1em;
+    font-weight: 600;
+    color: white;
+  
+    padding: 8px 20px;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+  
+  #botao-abrir:hover {
+    transform: scale(1.05);
+}
+
+#botao-fechar {
+    background-color: #bd2e24;
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+  
+    font-family: "Barlow", sans-serif;
+    font-size: 1em;
+    font-weight: 600;
+    color: white;
+  
+    padding: 8px 20px;
+    width: 80%;
+    margin: 0 auto;
+  
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+  
+  #botao-fechar:hover {
+    transform: scale(1.05);
+}
+  
+  @media screen and (max-width: 600px) {
+  
+    .container-titulo h1 {
+      font-size: 1.5em;
+    }
+  
+    #container-botoes {
+      width: 80%;
+      margin: 30px auto 0 auto;
+    }
+
+    .container img{
+        width: 100%;
+        max-width: 400px;
+        max-height: 400px;
+        height: auto;
+    }
+}

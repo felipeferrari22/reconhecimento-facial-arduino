@@ -34,7 +34,7 @@ Requisitos:
 
 2) O script `face_train.py` irá treinar um modelo para reconhecer todas as faces das 40 imagens tiradas pelo `face_taker.py`, e salvar o output do treinamento no arquivo `training.yml`.
 
-3) O script `face_recognizer.py` é utilizado para salvar o nome de cada pessoa cujas fotos foram tiradas pelo `face_taker.py`. O programa reconhecerá o rosto de acordo com a ID informada. Se João informou a ID 1, seu nome deve aparecer da seguinte forma `names = [None, 'Joe'] # mantenha o None e adicione o nome à lista`
+3) O script `face_recognizer.py` é utilizado para salvar o nome de cada pessoa cujas fotos foram tiradas pelo `face_taker.py`. O programa reconhecerá o rosto de acordo com a ID informada. Se João informou a ID 1, seu nome deve aparecer da seguinte forma `names = [None, 'João'] # mantenha o None e adicione o nome à lista`
 
 `cmd: python start.py`
 

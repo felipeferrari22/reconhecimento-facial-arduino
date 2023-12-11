@@ -3,7 +3,7 @@
 
 ![fatec-pompeia](https://github.com/felipeferrari22/reconhecimento-facial-arduino/assets/78982963/06d287c0-9421-4a0f-a2a1-392c82fe98d8)
 
-[Clique aqui](https://github.com/felipeferrari22/reconhecimento-facial-arduino/blob/f31bb1c91ceff29ab1a9b2f41b34dbf74e8361c7/Artigo/Sistema%20de%20Seguranc%CC%A7a%20Agri%CC%81cola%20baseado%20em%20Reconhecimento%20Facial.pdf) para ler o artigo.
+[Clique aqui](https://github.com/felipeferrari22/reconhecimento-facial-arduino/blob/1b655e2a33367994326074e243712a2a17154ec9/Artigo/SISTEMA%20DE%20SEGURAN%C3%87A%20AGR%C3%8DCOLA%20BASEADO%20EM%20RECONHECIMENTO%20FACIAL.pdf) para ler o artigo.
 
 ## Desenvolvido utilizando
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35px">  •  **Python** &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35px">  •  **Flask** &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35px">  •  **HTML5** &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35px"> • **CSS3** &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35px"> • **Arduino** &nbsp;&nbsp;&nbsp;&nbsp;
